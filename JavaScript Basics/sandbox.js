@@ -1,4 +1,7 @@
-let age = null;
+// booleans & comparisons
 
-console.log(age, age + 3, `the age is ${age}`);
 
+// methods can return booleans
+
+
+//comparison operators
